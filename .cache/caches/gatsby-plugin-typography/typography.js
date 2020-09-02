@@ -1,0 +1,1 @@
+module.exports = require("/home/mwahyudi/Documents/learn-gatsby/DoaKeseharian/src/utils/typography")
